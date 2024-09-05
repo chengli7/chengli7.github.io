@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-289ed077","path":"/docs/2024/codeFold.html","title":"代码块折叠","lang":"en-US","frontmatter":{"title":"代码块折叠"},"headers":[],"git":{},"filePathRelative":"docs/2024/codeFold.md"}');export{e as data};

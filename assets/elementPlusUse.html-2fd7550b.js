@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2d275df4","path":"/docs/2024/elementPlusUse.html","title":"ElementPlus的使用","lang":"en-US","frontmatter":{"title":"ElementPlus的使用"},"headers":[{"level":2,"title":"Button 按钮","slug":"button-按钮","link":"#button-按钮","children":[]}],"git":{},"filePathRelative":"docs/2024/elementPlusUse.md"}');export{e as data};

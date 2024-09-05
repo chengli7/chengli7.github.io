@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-445ed1ae","path":"/docs/2022/rotateMenu.html","title":"旋转菜单","lang":"en-US","frontmatter":{"title":"旋转菜单","date":"2022/07/27"},"headers":[],"git":{},"filePathRelative":"docs/2022/rotateMenu.md"}');export{t as data};

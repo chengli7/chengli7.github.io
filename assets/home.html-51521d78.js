@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7339a644","path":"/docs/2022/home.html","title":"微信小程序从注册到上线发布","lang":"en-US","frontmatter":{"title":"微信小程序从注册到上线发布"},"headers":[],"git":{},"filePathRelative":"docs/2022/home.md"}');export{t as data};
