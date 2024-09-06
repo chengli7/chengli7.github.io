@@ -1,1 +1,0 @@
-import{_ as t,r as o,o as n,c,d as r}from"./app-959786d2.js";const a={};function _(s,l){const e=o("com2022-rotateMenu");return n(),c("div",null,[r(e)])}const u=t(a,[["render",_],["__file","rotateMenu.html.vue"]]);export{u as default};

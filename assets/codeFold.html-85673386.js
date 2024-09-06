@@ -1,1 +1,0 @@
-import{_ as o,r as c,o as t,c as n,d as r}from"./app-959786d2.js";const _={};function s(d,l){const e=c("CodeBox");return t(),n("div",null,[r(e)])}const m=o(_,[["render",s],["__file","codeFold.html.vue"]]);export{m as default};

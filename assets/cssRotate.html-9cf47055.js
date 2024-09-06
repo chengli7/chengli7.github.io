@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as c,c as s,e as n}from"./app-4af9f679.js";const a={};function _(r,l){const e=o("com2022-cssRotate");return c(),s("div",null,[n(e)])}const f=t(a,[["render",_],["__file","cssRotate.html.vue"]]);export{f as default};
