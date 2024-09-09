@@ -1,0 +1,1 @@
+import{_ as c,r as n,o as _,c as l,d as e,w as i}from"./app-5e267ec8.js";const m={};function s(r,a){const o=n("com2022-dingDingHome"),t=n("ClientOnly");return _(),l("div",null,[e(t,null,{default:i(()=>[e(o)]),_:1})])}const f=c(m,[["render",s],["__file","dingDingHome.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3c336904","path":"/docs/2024/carRoom.html","title":"3D汽车展厅","lang":"en-US","frontmatter":{"title":"3D汽车展厅"},"headers":[],"git":{},"filePathRelative":"docs/2024/carRoom.md"}');export{t as data};
