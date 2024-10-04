@@ -1,0 +1,1 @@
+import{_ as s,r as t,o,c,e as n}from"./app-572c54b3.js";const _={};function r(a,l){const e=t("com2022-steps");return o(),c("div",null,[n(e)])}const p=s(_,[["render",r],["__file","steps.html.vue"]]);export{p as default};

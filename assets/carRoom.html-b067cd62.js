@@ -1,1 +1,0 @@
-import{_ as n,r as o,o as a,c as r,d as e,w as l,b as _}from"./app-5e267ec8.js";const s={};function m(i,d){const t=o("com2024-CarRoom"),c=o("ClientOnly");return a(),r("div",null,[e(c,null,{default:l(()=>[e(t)]),_:1}),_(" [完整演示](https://chengli7.github.io/carHome3D)")])}const p=n(s,[["render",m],["__file","carRoom.html.vue"]]);export{p as default};
